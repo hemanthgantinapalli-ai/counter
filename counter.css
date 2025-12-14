@@ -1,0 +1,28 @@
+#labelcounter{
+    font-size: 50px;
+    margin-bottom: 1px;
+    display: block;
+    text-align: center;
+}
+#buttonctnr{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.buttons{
+    background-color:blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
+.buttons:hover{
+    background-color: rgb(33, 35, 162);
+}
